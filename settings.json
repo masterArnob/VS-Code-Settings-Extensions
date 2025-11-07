@@ -1,0 +1,35 @@
+{
+    "editor.fontSize": 14,
+    "workbench.statusBar.visible": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.minimap.enabled": false,
+    "editor.cursorBlinking": "solid",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.lineHeight": 2.5,
+    "editor.detectIndentation": false,
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,   
+    "editor.bracketPairColorization.enabled": true,
+    "editor.mouseWheelZoom": true,
+    "php.validate.executablePath": "E:\\laragon\\install\\bin\\php\\php-8.3.14-nts-Win32-vs16-x64\\php.exe",
+    "workbench.colorTheme": "Aura Dracula Spirit (Soft)",
+    "material-icon-theme.hidesExplorerArrows": false,
+    "workbench.tree.enableStickyScroll": false,
+    "workbench.tree.renderIndentGuides": "none",
+    "workbench.tree.indent": 8,
+    "explorer.compactFolders": false,
+    "git.decorations.enabled": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "security.promptForLocalFileProtocolHandling": false,
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "python.defaultInterpreterPath": "c:\\Users\\sadma\\AppData\\Local\\Microsoft\\WindowsApps\\python3.13.exe",
+    
+
+
+    
+
+    
+
+     
+}
